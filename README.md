@@ -10,7 +10,7 @@ $ pip install bs4
 $ python webcrawler.py
 enter the url
 enter the element(eg: a,div) and the class 
-enjoy :smile: 
+enjoy 
 ```
 
 # Screens
