@@ -8,9 +8,7 @@ def trade_spider(url,element,classname):
 	for link in soup.findAll(element,{'class':classname}):
 		content=link.string
 		linkid = link.get('href')
-		print("Title:")
 		print(content+"\n")
-		print("Link:")
 		print(linkid+"\n")
 
 url=input("Enter the url of the site to be crawled : ")
