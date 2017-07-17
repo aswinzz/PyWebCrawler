@@ -11,7 +11,7 @@ $ python webcrawler.py
 enter the url
 enter the element(eg: a,div) and the class 
 enjoy 
-The date will also be saved in crawler.txt
+The data will also be saved in crawler.txt
 ```
 
 # Screens
